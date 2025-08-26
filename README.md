@@ -37,7 +37,7 @@ Experienced **AI/ML Engineer** with 6+ years of expertise in designing and evalu
 
 ---
 
-⭐ *Looking to collaborate on impactful AI/ML research, LLM applications, and intelligent systems that create real-world value.*
+⭐ *Looking to collaborate on impactful AI/ML research, Diffusion Models,LLM model fine tuning and building applications, and intelligent systems that create real-world value.*
 
 
 <!---
