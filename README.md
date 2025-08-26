@@ -7,27 +7,29 @@
 
 ## 🧠 Summary
 
-Experienced **AI/ML Engineer** with 6+ years of expertise in designing and evaluating **Generative AI systems**, **Machine Learning models**, and **large-scale data pipelines**. Skilled in prompt engineering, model evaluation frameworks, and data quality analysis to drive real-world AI applications. Passionate about enhancing **user experience** through **applied research** and **rigorous experimentation**.
+Experienced **AI/ML Engineer** with 6+ years of expertise in designing and evaluating **Generative AI systems**, **Machine Learning models**, and **large-scale data pipelines**. Skilled in prompt engineering, model evaluation frameworks, and data quality analysis to drive real-world AI applications. Built applications which enchances **user experience** through **applied research** and **rigorous experimentation**.
 
 ---
 
 ## 🛠️ Skills
 
-**AI & ML Tools**  
-- Generative AI, NLP, Deep Learning, Diffusion Models,Prompt Engineering, RAG Techniques  
-- Computer Vision,Speech-to-Text, Model Evaluation (LLMs), Data Quality Analysis 
+**AI & ML Skillset**  
+- Generative AI, NLP, Deep Learning, Image Diffusion Models,Prompt Engineering, RAG Techniques  
+- Computer Vision,Speech-to-Text, Model Evaluation (LLMs), Data Quality Analysis ,Statistics & Probabilistic Modelling
+
 
 **Languages & Frameworks**  
 - Python (OOP), R, SQL  
 - TensorFlow, OpenCV, Scikit-learn, PyTorch  
-- Pandas, NumPy, Matplotlib, NLTK, SpaCy  
+- Pandas, NumPy, Matplotlib, NLTK, SpaCy,Transformers (HuggingFace)
 
 **Cloud & DevOps**  
-- Microsoft Azure, Azure ML, Azure DevOps, GCP-ML  
-- CI/CD Pipelines, ARM Templates, Databricks, Spark  
+- Microsoft Azure, Azure ML, Azure DevOps, GCP-ML,Docker 
+- MLflow, REST APIs,
+- CI/CD Pipelines, ARM Templates, Terraform, Databricks, PySpark  
 
 **Analytics & Visualization**  
-- Tableau, Seaborn,Plotly, Basic Statistics, Time-Series Analysis
+- Tableau, Seaborn,Plotly, Statistics, Analysis
 
 ---
 ## 🤝 Let’s Connect
