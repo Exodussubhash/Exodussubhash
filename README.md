@@ -21,8 +21,8 @@ Experienced **AI/ML Engineer** with 6+ years of expertise in designing and evalu
 
 
 **Languages & Frameworks**  
-- Python (OOP), R, SQL  
-- TensorFlow, OpenCV, Scikit-learn, PyTorch  
+- Python (OOP), R, Javascript, SQL  
+- TensorFlow, OpenCV, Scikit-learn, PyTorch, 
 - Pandas, NumPy, Matplotlib, NLTK, SpaCy,Transformers (HuggingFace)
 
 **Cloud & DevOps**  
