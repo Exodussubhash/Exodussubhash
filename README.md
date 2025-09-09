@@ -27,7 +27,7 @@ Experienced **AI/ML Engineer** with 6+ years of expertise in designing and evalu
 
 **Cloud & DevOps**  
 - Microsoft Azure, Azure ML, Azure DevOps, GCP-ML,Docker 
-- MLflow, REST APIs,
+- MLflow, REST APIs,Redis DB
 - CI/CD Pipelines, ARM Templates, Terraform, Databricks, PySpark  
 
 **Analytics & Visualization**  
