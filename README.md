@@ -7,7 +7,7 @@
 
 ## 🧠 Summary
 
-Experienced **AI/ML Engineer** with 6+ years of expertise in designing and evaluating **Generative AI systems**, **Machine Learning models**, and **large-scale data pipelines**. Skilled in prompt engineering, model building , model evaluation frameworks, and data quality analysis to drive real-world AI applications. Built applications which enchances **user experience** through **applied research** and **rigorous experimentation**.
+Experienced **AI/ML Engineer**  in developing and deploying **Generative AI systems**, **Machine Learning models**, and **large-scale data pipelines**. Skilled in prompt engineering, model building , model evaluation frameworks, and data quality analysis to drive real-world AI applications. Built applications which enchances **user experience** through **applied research** and **rigorous experimentation**.
 
 📂 Explore the projects in this repository to see examples of recent work across generative models, cloud-based AI applications, and intelligent systems.
 
